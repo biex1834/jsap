@@ -1,0 +1,50 @@
+canvas {
+  position:fixed;
+  top: 0;
+  left: 0;
+  outline: none;
+}
+
+body {
+  margin: 0;
+}
+::-webkit-scrollbar { width: 1 !important }
+
+main {
+  width : 100%;
+  position : fixed;
+}
+
+.section{
+  height : 100vh;
+  display : flex;
+  align-items:center;
+  justify-content : center;
+  font-size : 3em;
+  font-family : 'Times New Roman', Times, serif;
+}
+
+.one {
+  /*background-color: #242582;*/
+  color : #fff;
+}
+
+.two {
+  background-color: #f64c72;
+  color : #fff;
+}
+
+.three {
+  /*background-color: #99738e;*/
+  color : #fff;
+}
+
+.four {
+  background-color: #99738e;
+  color : #fff;
+}
+
+.five {
+ /*background-color: #99738e;*/
+  color : #fff;
+}
