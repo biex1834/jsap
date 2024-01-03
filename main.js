@@ -1,9 +1,9 @@
 import './style.css'
-import * as THREEJS from './node_modules/three'
+import * as THREEJS from './node_modules/three/src/Three.js'
 import * as SEE from './components/perception.js'
 import * as ELE from './components/nElements.js'
-import gsap from 'gsap'
-import { ScrollTrigger } from "gsap/ScrollTrigger";
+import gsap from './node_modules/gsap'
+import { ScrollTrigger } from "./node_modules/gsap/ScrollTrigger.js"
 import SplitType from 'split-type'
 
 
