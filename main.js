@@ -4,7 +4,7 @@ import * as SEE from './components/perception.js'
 import * as ELE from './components/nElements.js'
 import gsap from './node_modules/gsap'
 import { ScrollTrigger } from "./node_modules/gsap/ScrollTrigger.js"
-import SplitType from 'split-type'
+import SplitType from './node_modules/split-type'
 
 
 
