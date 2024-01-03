@@ -1,4 +1,4 @@
-import * as THREEJS from 'three'
+import * as THREEJS from '../node_modules/three'
 
 
 
