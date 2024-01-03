@@ -1,5 +1,5 @@
 import './style.css'
-import * as THREEJS from 'three'
+import * as THREEJS from './node_modules/three'
 import * as SEE from './components/perception.js'
 import * as ELE from './components/nElements.js'
 import gsap from 'gsap'
