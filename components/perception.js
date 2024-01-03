@@ -1,4 +1,4 @@
-import * as THREEJS from 'three'
+import * as THREEJS from '../node_modules/three'
 
 export function createCamera(scene,sizes){
     const camera = new THREEJS.PerspectiveCamera(75,sizes.width/sizes.height,0.1,1000)
